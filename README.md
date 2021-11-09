@@ -1,2 +1,3 @@
-# HOLAMUNDO
-MI PRIMER HOLA MUNDO.
+# HOLAMUNO
+
+System.out.println('HOLA MUNDO');
